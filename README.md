@@ -1,5 +1,6 @@
   <div align="center">
   <img src="Resources/logo.png" alt="Netflix Logo" width="600"/>
+  </div>
 
   <h1>🎬 Netflix SQL Business Analysis</h1>
 
